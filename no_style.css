@@ -17,10 +17,12 @@ body {
 .header_text {
     font-size: 3em;
     color: #d32f2f;
+
 }
 
 
 .gif_container img {
     width: 500px;
     max-width: 100%;
+
 }
